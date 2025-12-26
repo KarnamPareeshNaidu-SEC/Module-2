@@ -22,3 +22,4 @@ print(bin(a))
 
 
 ## Result
+The program successfully defines a lambda function that computes the sum of two numbers and prints the result.
